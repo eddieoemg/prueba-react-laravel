@@ -1,0 +1,98 @@
+nombre,paterno,materno,telefono,calle,numero_exterior,numero_interior,colonia,cp
+Juan,Pérez,López,5551234567,Av. Reforma,123,4B,Centro,06000
+María,García,Sánchez,5559876543,Insurgentes Sur,456,,Roma Norte,06700
+Pedro,Martínez,Gómez,5550001111,Juárez,789,2A,Condesa,06140
+Ana,López,Ruiz,5553334444,Revolución,555,10,Mixcoac,03910
+Carlos,Hernández,Díaz,5554445555,Patriotismo,888,,San Pedro,03800
+Luis,Ramírez,Torres,5557778888,Constituyentes,147,,Lomas,11000
+Carmen,Flores,Vega,5558889999,Palmas,258,PH,Lomas,11000
+Roberto,Sánchez,Mora,5551112222,Reforma,369,,Chapultepec,11580
+Laura,Díaz,Castro,5552224444,Homero,852,,Polanco,11570
+Fernando,Ruiz,Blanco,5553335555,Horacio,963,2B,Polanco,11550
+Sofía,Torres,Luna,5554446666,Presidente,159,,San Ángel,01000
+Miguel,Castro,Reyes,5555557777,Insurgentes,753,8D,Del Valle,03100
+Elena,Morales,Ortiz,5556668888,Coyoacán,421,,Coyoacán,04000
+Ricardo,Ortega,Vargas,5557779999,División del Norte,632,,Narvarte,03020
+Patricia,Vargas,Mendoza,5558880000,Eje Central,845,3A,Doctores,06720
+Alejandro,Mendoza,Guerrero,5559991111,Tlalpan,156,,Tlalpan,14000
+Gabriela,Guerrero,Ramos,5550002222,Universidad,267,5C,Copilco,04360
+Francisco,Ramos,Herrera,5551113333,Miguel Ángel de Quevedo,378,,Chimalistac,01070
+Verónica,Herrera,Aguilar,5552224444,Revolución,489,2B,Tacubaya,11870
+Jorge,Aguilar,Medina,5553335555,Observatorio,590,,Las Américas,01120
+Adriana,Medina,Cruz,5554446666,Patriotismo,701,PH,Escandón,11800
+Raúl,Cruz,Jiménez,5555557777,Nuevo León,812,,Hipódromo,06100
+Mónica,Jiménez,Romero,5556668888,Michoacán,923,4A,Condesa,06140
+Sergio,Romero,Delgado,5557779999,Ámsterdam,134,,Hipódromo,06100
+Beatriz,Delgado,Moreno,5558880000,Sonora,245,6B,Roma Sur,06760
+Arturo,Moreno,Ríos,5559991111,Durango,356,,Roma Norte,06700
+Claudia,Ríos,Navarro,5550003333,Colima,467,1C,Roma Norte,06700
+Enrique,Navarro,Santos,5551114444,Jalapa,578,,Roma Sur,06760
+Rosa,Santos,Domínguez,5552225555,Córdoba,689,3A,Roma Norte,06700
+Óscar,Domínguez,Peña,5553336666,Mérida,790,,Roma Sur,06760
+Irma,Peña,Rojas,5554447777,Oaxaca,801,5D,Roma Norte,06700
+Alberto,Rojas,Silva,5555558888,Tabasco,912,,Roma Norte,06700
+Teresa,Silva,Ortiz,5556669999,Chiapas,123,2B,Roma Sur,06760
+Guillermo,Núñez,Fernández,5557770000,Zacatecas,234,,Roma Norte,06700
+Lucía,Fernández,Espinoza,5558881111,Guanajuato,345,PH,Roma Norte,06700
+Javier,Espinoza,Campos,5559992222,Querétaro,456,,Roma Sur,06760
+Diana,Campos,Vázquez,5550004444,Aguascalientes,567,1A,Hipódromo,06100
+Rafael,Vázquez,Guzmán,5551115555,San Luis Potosí,678,,Roma Norte,06700
+Leticia,Guzmán,Cortés,5552226666,Puebla,789,4C,Roma Norte,06700
+Víctor,Cortés,Salazar,5553337777,Veracruz,890,,Roma Sur,06760
+Alicia,Salazar,Contreras,5554448888,Yucatán,901,2A,Roma Norte,06700
+Gerardo,Contreras,León,5555559999,Campeche,112,PH,Roma Sur,06760
+Sandra,León,Mejía,5556660000,Coahuila,223,,Condesa,06140
+Rubén,Mejía,Fuentes,5557771111,Tamaulipas,334,5B,Condesa,06140
+Norma,Fuentes,Ibarra,5558882222,Mazatlán,445,,Condesa,06140
+Andrés,Ibarra,Valdez,5559993333,Nuevo León,556,3D,Hipódromo,06100
+Margarita,Valdez,Sandoval,5550005555,Baja California,667,,Hipódromo,06100
+Héctor,Sandoval,Rangel,5551116666,Sonora,778,1A,Condesa,06140
+Cristina,Rangel,Lara,5552227777,Sinaloa,889,,Roma Norte,06700
+Eduardo,Lara,Soto,5553338888,Chihuahua,990,4B,Condesa,06140
+Angélica,Soto,Estrada,5554449999,Durango,101,PH,Roma Sur,06760
+Manuel,Estrada,Ávila,5555550000,Colima,212,,Condesa,06140
+Gloria,Ávila,Cervantes,5556661111,Jalisco,323,2C,Hipódromo,06100
+Ramón,Cervantes,Montes,5557772222,Nayarit,434,,Roma Norte,06700
+Isabel,Montes,Rosales,5558883333,Michoacán,545,5A,Condesa,06140
+César,Rosales,Téllez,5559994444,Quintana Roo,656,,Roma Sur,06760
+Martha,Téllez,Pacheco,5550006666,Oaxaca,767,3B,Hipódromo,06100
+Iván,Pacheco,Bravo,5551117777,Tabasco,878,,Condesa,06140
+Yolanda,Bravo,Miranda,5552228888,Chiapas,989,1D,Roma Norte,06700
+Pablo,Miranda,Cabrera,5553339999,Presidente Masaryk,100,,Polanco,11560
+Susana,Cabrera,Padilla,5554440000,Emilio Castelar,211,4A,Polanco,11560
+Ignacio,Padilla,Reyes,5555551111,Julio Verne,322,,Polanco,11560
+Rocío,Acosta,Molina,5556662222,Oscar Wilde,433,2B,Polanco,11550
+Antonio,Molina,Figueroa,5557773333,Lafontaine,544,,Polanco,11560
+Catalina,Figueroa,Villanueva,5558884444,Homero,655,PH,Polanco,11570
+Nicolás,Villanueva,Zamora,5559995555,Horacio,766,,Polanco,11550
+Elvira,Zamora,Ochoa,5550007777,Aristóteles,877,3C,Polanco,11560
+Armando,Ochoa,Valencia,5551118888,Platón,988,,Polanco,11550
+Silvia,Valencia,Galván,5552229999,Sócrates,199,5A,Polanco,11560
+Mauricio,Galván,Lozano,5553330000,Arquímedes,210,,Polanco,11570
+Consuelo,Lozano,Ponce,5554441111,Galileo,321,2D,Polanco,11550
+Felipe,Ponce,Duarte,5555552222,Kepler,432,,Polanco,11560
+Aurora,Duarte,Bautista,5556663333,Copérnico,543,1B,Polanco,11560
+Gregorio,Bautista,Huerta,5557774444,Newton,654,,Polanco,11570
+Dolores,Huerta,Corona,5558885555,Leibniz,765,4A,Polanco,11550
+Lorenzo,Corona,Cabello,5559996666,Euler,876,,Polanco,11560
+Josefina,Cabello,Arriaga,5550008888,Fermat,987,PH,Polanco,11570
+Salvador,Arriaga,Becerra,5551119999,Descartes,198,,Polanco,11550
+Esperanza,Becerra,Carmona,5552220000,Pascal,209,3B,Polanco,11560
+Tomás,Carmona,Trujillo,5553331111,Tennyson,310,,Polanco,11560
+Esther,Trujillo,Velasco,5554442222,Hegel,421,2C,Polanco,11570
+Benjamín,Velasco,Quiroz,5555553333,Schiller,532,,Polanco,11550
+Eugenia,Quiroz,Cárdenas,5556664444,Goethe,643,5D,Polanco,11560
+Santiago,Cárdenas,Salas,5557775555,Lamartine,754,,Polanco,11570
+Olga,Salas,Tapia,5558886666,Molière,865,1A,Polanco,11560
+Marcos,Tapia,Velázquez,5559997777,Petrarca,976,,Polanco,11550
+Regina,Velázquez,Nava,5550009999,Virgilio,187,4B,Polanco,11560
+Ernesto,Nava,Solís,5551110000,Dante,298,,Polanco,11570
+Virginia,Solís,Serrano,5552221111,Campos Elíseos,409,PH,Polanco,11560
+Alfonso,Serrano,Palacios,5553332222,Anatole France,510,,Polanco,11550
+Marisol,Palacios,Osorio,5554443333,Goldsmith,621,2A,Polanco,11560
+Rodolfo,Osorio,Cisneros,5555554444,Edgar Allan Poe,732,,Polanco,11570
+Fabiola,Cisneros,Balderas,5556665555,Lord Byron,843,3C,Polanco,11560
+Hugo,Balderas,Magaña,5557776666,Musset,954,,Polanco,11550
+Paulina,Magaña,Arias,5558887777,Alejandro Dumas,165,1B,Polanco,11560
+Rodrigo,Arias,Pineda,5559998888,Julio Verne,276,,Polanco,11570
+Catalina,Pineda,Méndez,5550000001,Presidente Masaryk,387,5A,Polanco,11560
